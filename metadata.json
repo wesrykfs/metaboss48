@@ -1,0 +1,41 @@
+{
+  "name": "DFWF #2341",
+  "symbol": "DFWF",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/7-BY7PKL72KpnIdlfccQAyixbMQNk1aQQBNKLyByhew",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Duck Swimming Float"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Sombrero"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
